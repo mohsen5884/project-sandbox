@@ -2,7 +2,8 @@ import "./App.css";
 //  import SignatureApp from "./projects/01-signature-Date-app/SignatureApp";
 // import RandomizeColor from "./projects/02-randomize-color/RandomizeColor";
 // import LikeMyPhoto from "./projects/03-like-my-photo/LikeMyPhoto";
-import ReactButtonComponnent from "./projects/04-react-button-componnent/ReactButtonComponnent";
+//import ReactButtonComponnent from "./projects/04-react-button-componnent/ReactButtonComponnent";
+import AlertApp from "./projects/05-alert-app/AlertApp";
 
 function App() {
   return (
@@ -12,7 +13,8 @@ function App() {
         {/* <SignatureApp />  */}
         {/* <RandomizeColor/> */}
         {/* <LikeMyPhoto /> */}
-        <ReactButtonComponnent />
+        {/* <ReactButtonComponnent /> */}
+        <AlertApp/>
       </div>
     </div>
   );
