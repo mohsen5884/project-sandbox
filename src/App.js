@@ -3,7 +3,8 @@ import "./App.css";
 // import RandomizeColor from "./projects/02-randomize-color/RandomizeColor";
 // import LikeMyPhoto from "./projects/03-like-my-photo/LikeMyPhoto";
 //import ReactButtonComponnent from "./projects/04-react-button-componnent/ReactButtonComponnent";
-import AlertApp from "./projects/05-alert-app/AlertApp";
+//import AlertApp from "./projects/05-alert-app/AlertApp";
+import TempetureApp from "./projects/06-tempeture-controller/TempetureApp";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
         {/* <RandomizeColor/> */}
         {/* <LikeMyPhoto /> */}
         {/* <ReactButtonComponnent /> */}
-        <AlertApp/>
+        {/* <AlertApp/> */}
+        <TempetureApp/>
       </div>
     </div>
   );
